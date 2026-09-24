@@ -3,7 +3,7 @@
 # Amir Asghar
 ### Senior AI/ML Engineer
 
-**6+ years** building production-ready LLM, RAG, and Multimodal AI systems · Lahore, Pakistan · Open to Worldwide Opportunities
+**6+ years** building production-ready LLM, RAG, and Multimodal AI systems · Open to Worldwide Opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-asghar-ali-a80825112/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amirasghar-ml)
